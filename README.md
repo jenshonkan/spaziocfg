@@ -1,0 +1,2 @@
+# spaziocfg
+Cfg store Spazio
